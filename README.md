@@ -2,7 +2,7 @@
 
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align=center src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!--
 **AnimeUsernameHere/AnimeUsernameHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
