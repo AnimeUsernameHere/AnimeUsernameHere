@@ -1,7 +1,8 @@
 <h1 align=center> Hi, my name is S̷̤͓̬̲͓̞͑̓̾́͌̅̔́͂̎̈́̑̀̍͘͝Y̴̡̛̭̟̪͇̫̙͈̖͍̝̻̟̼̼̳͙̔̑͊̈̃͂̽̊̅͛̅͜ͅS̴͈̺̙̖͎̘̪̬̫̘͕̬̀̅̈́̉͗̍́́͑̚̚͜͠_̸̢̢̲̖͚̺̜̱̹̣̯̻͇͙̪͊ͅC̵̝͖̘͉̮̥̮̜̟͎̥̥͖̽̔ͅŗ̷̹͓̙̱̝̯͇̪̗͊́͒̃̾͋̄i̸̡̧̨̻̮̲̫̬͇͓̗̱̗̮̮̫͈̜͓̳̒͒͛̓̈͑̀̂̎͑̎̚͜ṭ̴̢̛̼̖̦̭͉̤̝̰̦̘̣̞̲͔̹̱̻̭̦̌͋́́͐̈́͋͗̅̕͝i̵̧̡̡̨̡̨̢̹͍̺͕͚̘̦͙̮̭̳͐̀̈́̓̓́͆͐̆̆͑̉͘͝͝͠c̶͎̯̣͔̣̘̎́̀̄͝a̸̢͕͎̰̯̳͈̤̻̫̭̣͓͐̊̔͑̈̑͂̈͜l̶̞̤̀͛̂̃̌̉̈́̈́͑̐͗̀̈́̕̕͜͝_̷̻͖̣͔͍̤̬͇͓̘̟̉̑͗̃̎͊̉̂̈͐͜͠ḙ̸͋͛̊̀̇͊̉̀̀͌̈́̅͘͘͝ŗ̷̺̪̤͐͆͒͋̊͆̓̌ͅr̶̨̡̬̰̘͍̠̪̩̤̱͚̥̠̥̝̞̦̳̿̔͋̅̍͋̃͗͌̑͐̔͊̓͛̅̈́͘͝͝͠ǫ̴̨̜̥͉͚̠̗͖̩̥̰̥̺̞̠̝̹͚̤͌͒͌̕ͅr̸̛͖͈̱͎̻͛͆̌̓͋͜  </h1>
 
-\centering
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!--
 **AnimeUsernameHere/AnimeUsernameHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
